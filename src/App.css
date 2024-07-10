@@ -1,0 +1,21 @@
+/* write your css here */
+.active{
+    display: none;
+}
+tr{
+    display: flex;
+    justify-content: space-evenly; 
+
+    
+}
+td{
+    text-align: left;
+    background-color: deepskyblue;
+    width: 100%;
+    border-right: 2px solid black;
+
+
+}
+input{
+    width: 130PX;
+}
